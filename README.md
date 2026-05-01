@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Back-end`**
 
-#### Oi, sou o Lucas, tenho 19 anos e sou apaixonado por tecnologia. Comecei a faculdade de Sistemas de Informação em 2024 e estou me aprofundando em Java. Sou comunicativo, gosto de aprender rápido e sempre busco novos desafios. Aqui no GitHub, compartilho alguns dos meus projetos e aprendizados.
-
 ### 📊 Estatísticas
 <div>
   <a href="https://github.com/LucasGabriellls">
